@@ -12,18 +12,18 @@ Education
 	October 2017 – May 2018	Middlesex University – London				
 	School of Science and Technology: Course – Computer Science 
 
-.
+<br>
     
     July 2016 – July 2018		Swinburne University – Melbourne – Australia, Exchange program
     Faculty of Science, Engineering and Technology:
-    Course – Computer Science
+    Course – Computer Science <br>
 
-.
+<br>
     
     October 2015 – May 2018	Middlesex University - London
     School of Science and Technology: Course – Computer Science
     
-.
+<br>
 
     September 2010 - May 2014	“ZST Tarnow” Technical College - Poland
     Electronics Technician, specialization Computer Systems
@@ -51,7 +51,11 @@ Employment History
                                   Student Learning Assistant
                                   
 - Assisting lectures in classes
-- Preparing teaching material for classes 
+- Working with students on set tasks in small groups
+- Preparing students for seminar tasks
+- Encouraging peers to overcome learning challenges
+- 1-2-1 catch up sessions
+- Demonstration techniques in Labs
      
 
     October 2016 – Present    ExpenseCheck, Melbourne- Australia
